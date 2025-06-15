@@ -3,7 +3,7 @@
     "image": "src/assets/images/cap-portafolio.png",
     "title": "Mi portafolio",
     "description": "Portafolio personal con información sobre mí, mis habilidades y proyectos. Incluye un formulario de contacto.",
-    "repoLink": "https://github.com/diego3026/my-portfolio",
+    "repoLink": "https://github.com/diego3026/my-portafolio.git",
     "technologies": ["React", "Tailwind CSS", "TypeScript"]
   },
   {
