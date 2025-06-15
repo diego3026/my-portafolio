@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "Ingeniería de Sistemas",
+        "institucion": "Universidad del Magdalena",
+        "fecha": "2020 - Presente",
+        "descripcion": "Enfocado en desarrollo de software, estructuras de datos, bases de datos y arquitectura de sistemas."
+    },
+    {
+        "titulo": "Desarrollador Web Full Stack",
+        "institucion": "Alura",
+        "fecha": "2024 - 2025",
+        "descripcion": "Formación práctica en lenguajes de programación como Java, SQL y desarrollo web básico."
+    },
+    {
+        "titulo": "English Does Work - Level 9",
+        "institucion": "Sena",
+        "fecha": "2025",
+        "descripcion": "Curso avanzado de inglés, enfocado en habilidades de conversación, comprensión auditiva y vocabulario técnico."
+    },
+    {
+        "titulo": "Curso Completo de Java - De cero a master",
+        "institucion": "Udemy",
+        "fecha": "2023",
+        "descripcion": "Curso intensivo de Java, cubriendo desde fundamentos hasta conceptos avanzados como programación orientada a objetos y manejo de excepciones."
+    },
+    {
+        "titulo": "Curso profesional de Git y GitHub",
+        "institucion": "Platzi",
+        "fecha": "2022",
+        "descripcion": "Curso avanzado sobre control de versiones con Git y colaboración en proyectos usando GitHub."
+    }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "image": "src/assets/images/cap-portafolio.png",
+    "title": "Mi portafolio",
+    "description": "Portafolio personal con información sobre mí, mis habilidades y proyectos. Incluye un formulario de contacto.",
+    "repoLink": "https://github.com/diego3026/my-portfolio",
+    "technologies": ["React", "Tailwind CSS", "TypeScript"]
+  },
+  {
+    "image": "src/assets/images/cap-phrase.png",
+    "title": "Phrase",
+    "description": "Sistema de mensajes aleatorios. Permite a los usuarios generar frases aleatorias y compartirlas.",
+    "repoLink": "https://github.com/diego3026/Phrase_front",
+    "technologies": ["React", "CSS", "API", "SpringBoot", "Java", "PostgreSQL", "TypeScript", "Azure", "Docker"]
+  },
+  {
+    "image": "src/assets/images/cap-easytask.png",
+    "title": "EasyTask",
+    "description": "Sistema de tareas y tareas pendientes. Permite a los usuarios crear, editar y eliminar tareas, así como marcarlas como completadas.",
+    "repoLink": "https://github.com/diego3026/Task-Manager-FrontEnd",
+    "technologies": ["React", "CSS", "API", "SpringBoot", "Java", "PostgreSQL", "TypeScript", "Azure", "Docker"]
+  },
+  {
+    "image": "src/assets/images/cap-dreamhome.png",
+    "title": "DreamHome",
+    "description": "Sistema de recomendacion de propiedades inmobiliarias. Permite a los usuarios buscar y filtrar propiedades según sus preferencias.",
+    "repoLink": "https://github.com/diego3026/Sistema-de-recomendacion-Integrado",
+    "technologies": ["React", "CSS", "API", "Django", "Python", "PostgreSQL", "TypeScript", "Azure", "Docker"]
+  },
+  {
+    "image": "src/assets/images/cap-shopu.jpg",
+    "title": "ShopU",
+    "description": "Aplicacion de compras en línea. Autenticación de usuarios, proyecto con buenas practicas de desarrollo y arquitectura MVVM.",
+    "repoLink": "https://github.com/diego3026/proyecto-aplicacion-android",
+    "technologies": ["Kotlin", "Android", "Java", "Supabase", "MVVM"]
+  },
+  {
+    "image": "src/assets/images/cap-alura.png",
+    "title": "Encriptador de texto",
+    "description": "Un ecriptador donde el usuario puede escribir un texto y el encriptador lo codifica con llaves ya programadas. El encriptador también permite desencriptar el texto.",
+    "repoLink": "https://github.com/diego3026/encriptador",
+    "technologies": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "image": "src/assets/images/cap-helprecy.jpg",
+    "title": "HelpRecy",
+    "description": "Aplicacion de reciclaje. Permite a los usuarios encontrar puntos de reciclaje cercanos, registrar sus actividades de reciclaje y recibir recompensas.",
+    "repoLink": "https://github.com/diego3026/Aplicacion-android-de-reciclaje",
+    "technologies": ["Kotlin", "Android", "Java", "XML"]  
+  }
+]

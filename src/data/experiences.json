@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Practicante en Ingeniería de Sistemas",
+    "company": "Bancolombia",
+    "date": "Ene 2025 – Jul 2025",
+    "description": "He automatizado procesos utilizando Python, desarrollando sistemas con infraestructura tanto backend como frontend. Implementé un sistema de gestión de usuarios y roles, así como una plataforma para el control de planillas de mantenimiento. Además, innové en el acceso a bases de datos al diseñar una interfaz amigable e intuitiva para el usuario, mejorando significativamente la experiencia y eficiencia en la interacción con los datos."
+  },
+  {
+    "title": "Asistente de Investigación en Inteligencia Artificial",
+    "company": "Universidad del Magdalena",
+    "date": "Sep 2023 – Dic 2023",
+    "description": "Apoyo a la revisión bibliográfica sobre arquitecturas de redes neuronales y modelos de atención, así como también apoyo en la digitación y organización de la información."
+  }
+]
